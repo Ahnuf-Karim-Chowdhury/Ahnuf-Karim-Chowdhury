@@ -131,7 +131,7 @@ I'm a passionate Full Stack Web Developer who loves to build awesome apps and so
     <!-- Fallback image if the browser doesn't support <picture> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnuf-Karim-Chowdhury&layout=compact" 
          alt="Top Langs"
-         width="720" height="280">
+         width="750" height="380">
   </picture>
 </p>
 
