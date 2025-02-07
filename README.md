@@ -56,21 +56,6 @@ I'm a passionate Full Stack Web Developer who loves to build awesome apps and so
 #
 
 ### 📊 Stats
-<p align="left"> 
-<a href="https://github.com/Ahnuf-Karim-Chowdhury/github-readme-stats">
-  <picture>
-    <!-- Display this image when dark mode is active -->
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=Ahnuf-Karim-Chowdhury&show_icons=true&theme=radical">
-    <!-- Display this image when light mode is active -->
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-stats.vercel.app/api?username=Ahnuf-Karim-Chowdhury">
-    <!-- Fallback image for browsers that do not support <picture> -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Ahnuf-Karim-Chowdhury" 
-         alt="Anurag's GitHub stats">
-  </picture>
-</a>
-</p>
 
 <p align="right"> 
 <a href="https://github.com/Ahnuf-Karim-Chowdhury/github-readme-stats">
@@ -87,5 +72,22 @@ I'm a passionate Full Stack Web Developer who loves to build awesome apps and so
        width="520" height="197">
 </picture>
 </p>
+  
+<p align="left"> 
+<a href="https://github.com/Ahnuf-Karim-Chowdhury/github-readme-stats">
+  <picture>
+    <!-- Display this image when dark mode is active -->
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=Ahnuf-Karim-Chowdhury&show_icons=true&theme=radical">
+    <!-- Display this image when light mode is active -->
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=Ahnuf-Karim-Chowdhury">
+    <!-- Fallback image for browsers that do not support <picture> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=Ahnuf-Karim-Chowdhury" 
+         alt="Anurag's GitHub stats">
+  </picture>
+</a>
+</p>
+
 
 </a>
