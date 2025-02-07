@@ -15,10 +15,16 @@ I'm a passionate Full Stack Web Developer who loves to build awesome apps and so
 <h3>
  
 - MERN Stack: MongoDB, Express.js, React, Node.js – My go-to for building modern, scalable web apps.
+  </br>
+  
 - Laravel: Crafting clean and efficient backends with PHP.
+ </br>
+ 
 - Flutter: Developing beautiful cross-platform mobile apps for both iOS & Android. 📱
+ </br>
+ 
 - And More... I’m always learning and diving into new technologies to build the best solutions for any challenge.
-
+ </br>
 🌱I believe in clean code, performance optimization, and delivering a seamless experience.
 
 </h3>
