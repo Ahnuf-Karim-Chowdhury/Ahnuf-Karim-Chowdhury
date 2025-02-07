@@ -1,6 +1,6 @@
-
-# 🏄‍♂️ Hi there, I'm Ahnuf! 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00ADEF&center=false&vCenter=true&width=700&lines=Hi+there+,+I'm+Ahnuf!;Full-Stack+Web+Developer;MERN+Stack+Developer+%7C+Laravel+Developer;Strong+Backend+Developer+%7C+Good+Front-End+Developer;Your+team’s+future+MVP;The+Best+Team+Player+you+could+ask+for!+😉)
+<!-- # 🏄‍♂️ Hi there, I'm Ahnuf! -->
+ 
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00ADEF&center=false&vCenter=true&width=700&lines=🏄‍♂️+Hi+there+,+I'm+Ahnuf!;💻+Full-Stack+Web+Developer+🛠️;MERN+Stack+Developer+%7C+Laravel+Developer;💻+Good+Front-End+Developer;🛠️+Great+Backend+Developer;Your+team’s+future+MVP+😎;The+Best+Team+Player+you+could+ask+for!😉)
 
 
 I'm a passionate Full Stack Web Developer who loves to build awesome apps and solutions from the ground up. 
