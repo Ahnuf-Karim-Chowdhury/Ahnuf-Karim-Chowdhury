@@ -1,5 +1,7 @@
 
 # 🏄‍♂️ Hi there, I'm Ahnuf! 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00ADEF&center=false&vCenter=true&width=700&lines=Hi+there+,+I'm+Ahnuf!;Full-Stack+Web+Developer;MERN+Stack+Developer+%7C+Laravel+Developer;Strong+Backend+Developer+%7C+Good+Front-End+Developer;Your+team’s+future+MVP;The+Best+Team+Player+you+could+ask+for!+😉)
+
 
 I'm a passionate Full Stack Web Developer who loves to build awesome apps and solutions from the ground up. 
 
@@ -14,9 +16,7 @@ I'm a passionate Full Stack Web Developer who loves to build awesome apps and so
 
 🌱I believe in clean code, performance optimization, and delivering a seamless experience.
 
-💡 Feel free to check out my projects below and let’s connect! 🙌
-
-<p align="left">
+ <p align="left">
   <a href="https://github.com/Ahnuf-Karim-Chowdhury?tab=repositories">
     <img alt="total repositories" title="Total repositories on GitHub" src="https://custom-icon-badges.demolab.com/badge/Repositories-black?color=black&style=for-the-badge&labelColor=488207&logo=repo&logoColor=blue"/>
 </a>
@@ -24,6 +24,11 @@ I'm a passionate Full Stack Web Developer who loves to build awesome apps and so
   <a href="https://github.com/Ahnuf-Karim-Chowdhury?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Ahnuf-Karim-Chowdhury?color=black&style=for-the-badge&labelColor=488207&logo=star&logoColor=yellow"/></a>
 </p>
+
+
+
+
+
 
 ---
 ### 🧰 Languages and Tools
@@ -88,6 +93,23 @@ I'm a passionate Full Stack Web Developer who loves to build awesome apps and so
   </picture>
 </a>
 </p>
-
-
 </a>
+
+--- 
+
+## <p style="font-family: 'Roboto', sans-serif; font-size: 24px; color: #0d6efd; font-weight: bold;"> 💡 Feel free to check out my projects below and let’s connect! 🙌</p>
+
+<p align="center">
+  <a href="mailto:ahnufkarimchowdhury@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/ahnuf-karim-chowdhury-396066263/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Ahnuf-Karim-Chowdhury">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://x.com/Ahnuf_Karim">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
