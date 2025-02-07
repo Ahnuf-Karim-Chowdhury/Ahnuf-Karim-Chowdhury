@@ -101,10 +101,10 @@ I'm a passionate Full Stack Web Developer who loves to build awesome apps and so
 
 <p align="center">
   <a href="mailto:ahnufkarimchowdhury@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?&color=#DC143C&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?&color=B22222&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://linkedin.com/in/ahnuf-karim-chowdhury-396066263/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?color=004182&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Ahnuf-Karim-Chowdhury">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
