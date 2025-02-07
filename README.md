@@ -57,7 +57,7 @@ I'm a passionate Full Stack Web Developer who loves to build awesome apps and so
 
 ### 📊 Stats
 
-<p align="right"> 
+<p align="center"> 
 <a href="https://github.com/Ahnuf-Karim-Chowdhury/github-readme-stats">
 <picture>
   <!-- Display this image when dark mode is active -->
@@ -73,7 +73,7 @@ I'm a passionate Full Stack Web Developer who loves to build awesome apps and so
 </picture>
 </p>
   
-<p align="left"> 
+<p align="center"> 
 <a href="https://github.com/Ahnuf-Karim-Chowdhury/github-readme-stats">
   <picture>
     <!-- Display this image when dark mode is active -->
