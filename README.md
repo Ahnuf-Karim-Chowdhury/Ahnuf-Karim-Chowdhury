@@ -5,16 +5,14 @@
 <h3>
 I'm a passionate Full Stack Web Developer who loves to build awesome apps and solutions from the ground up. 
 </h3>
-</br>
+
 <h3>
 💻 Whether it's creating a slick user interface, managing complex backends, or designing mobile apps, I'm all in!
 </h3>
 
 
-
-
 <h1>💡 Tech Stack</h1>
-<h4>
+<h3>
  
 - MERN Stack: MongoDB, Express.js, React, Node.js – My go-to for building modern, scalable web apps.
 - Laravel: Crafting clean and efficient backends with PHP.
@@ -23,7 +21,7 @@ I'm a passionate Full Stack Web Developer who loves to build awesome apps and so
 
 🌱I believe in clean code, performance optimization, and delivering a seamless experience.
 
-</h4>
+</h3>
 
  <p align="left">
   <a href="https://github.com/Ahnuf-Karim-Chowdhury?tab=repositories">
