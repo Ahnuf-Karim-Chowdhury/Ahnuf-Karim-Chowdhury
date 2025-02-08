@@ -2,32 +2,23 @@
  
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00ADEF&center=false&vCenter=true&width=700&lines=🏄‍♂️+Hi+there+,+I'm+Ahnuf!;💻+Full-Stack+Web+Developer+🛠️;MERN+Stack+Developer+%7C+Laravel+Developer;💻+Good+Front-End+Developer;🛠️+Great+Backend+Developer;Your+team’s+future+MVP+😎;The+Best+Team+Player+you+could+ask+for!😉)
 
-<h3>
-I'm a passionate Full Stack Web Developer who loves to build awesome apps and solutions from the ground up. 
-</h3>
+I'm a passionate **Full Stack Web Developer** who loves to build awesome apps and solutions from the ground up. 
 
-<h3>
-💻 Whether it's creating a slick user interface, managing complex backends, or designing mobile apps, I'm all in!
-</h3>
+💻 Whether it's creating a **slick user interface**, **managing complex backends**, or **designing mobile apps**, I'm all in!
 
 
-<h1>💡 Tech Stack</h1>
-<h3>
- 
-- MERN Stack: MongoDB, Express.js, React, Node.js – My go-to for building modern, scalable web apps.
-  </br>
-  
-- Laravel: Crafting clean and efficient backends with PHP.
+💡** Tech Stack**
+
+- **MERN Stack:** MongoDB, Express.js, React, Node.js – My go-to for building modern, scalable web apps.
+- **Laravel:** Crafting clean and efficient backends with PHP.
+- **Flutter:** Developing beautiful cross-platform mobile apps for both iOS & Android. 📱
+- **And More...** I’m always learning and diving into new technologies to build the best solutions for any challenge.
  </br>
  
-- Flutter: Developing beautiful cross-platform mobile apps for both iOS & Android. 📱
- </br>
- 
-- And More... I’m always learning and diving into new technologies to build the best solutions for any challenge.
- </br>
-🌱I believe in clean code, performance optimization, and delivering a seamless experience.
+🌱I believe in **clean code**, **performance optimization**, and **delivering a seamless experience**.
 
-</h3>
+</br>
+
 
  <p align="left">
   <a href="https://github.com/Ahnuf-Karim-Chowdhury?tab=repositories">
@@ -122,7 +113,7 @@ I'm a passionate Full Stack Web Developer who loves to build awesome apps and so
 
 </br>
 
-# Panda Contribution Graph 🐼
+# 📈 Contribution Graph 
 
 
 <p align="center">
