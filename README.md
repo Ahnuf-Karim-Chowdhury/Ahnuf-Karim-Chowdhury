@@ -135,18 +135,5 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 </p>
 
 
-<!-- 
-<details>
-   <summary>📈 Contribution Graph </summary>
-  <p align="center">
-  <picture>
-    <!-- Display this image when dark mode is active -->
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ahnuf-Karim-Chowdhury&theme=react-dark" alt="GitHub Contribution Graph">
-    <!-- Display this image when light mode is active -->
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ahnuf-Karim-Chowdhury&theme=github-compact" alt="GitHub Contribution Graph">
-    <!-- Fallback image if the browser doesn't support <picture> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnuf-Karim-Chowdhury&layout=compact" 
-         alt="Top Langs"
-         width="750" height="380"> </picture> </p> </details>  -->
+
+
