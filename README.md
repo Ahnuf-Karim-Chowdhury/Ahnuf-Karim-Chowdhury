@@ -87,7 +87,7 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
       <!-- Display this image when light mode is active -->
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnuf-Karim-Chowdhury&layout=compact">
       <!-- Fallback image if the browser doesn't support <picture> -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnuf-Karim-Chowdhury&layout=compact" alt="Top Langs" width="400" height="200">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnuf-Karim-Chowdhury&layout=compact" alt="Top Langs" width="300" height="200">
     </picture>
   </a>
 
