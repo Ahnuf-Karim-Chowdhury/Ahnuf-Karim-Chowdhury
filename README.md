@@ -66,7 +66,10 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 
 # 📊 Stats
 
-<div align="center">
+<details>
+  <summary> See My Github Stats 👇 </summary>
+</br> 
+ <div align="center">
   <a href="https://github.com/Ahnuf-Karim-Chowdhury/github-readme-stats" style="display: inline-block; margin-right: 10px;">
     <picture>
       <!-- Display this image when dark mode is active -->
@@ -89,16 +92,17 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
     </picture>
   </a>
 </div>
-
-
-
+  </details>
+  
 --- 
 
 </br>
 
 # 📈 Contribution Graph 
 
-
+<details>
+  <summary> See My Github Contribution Graph 👇 </summary>
+</br> 
 <p align="center">
   <picture>
     <!-- Display this image when dark mode is active -->
@@ -113,6 +117,9 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
          width="750" height="380">
   </picture>
 </p>
+</details>
+
+---
 
 
 ## <p style="font-family: 'Roboto', sans-serif; font-size: 24px; color: #0d6efd; font-weight: bold;"> 💡 Feel free to check out my projects below and let’s connect! 🙌</p>
