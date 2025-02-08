@@ -61,17 +61,20 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
   <img alt="Bash" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 </div>
 <br />
-
+<details>
+  <summary> See Details 👇 </summary> </br>
+ 
 | **Languages** | **Frameworks, Platforms, and Libraries** | **Design** | **Database Management** |
 | :---: | :---: | :---: | :---: |
 | <img alt="HTML" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img alt="CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img alt="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img alt="TypeScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> | <img alt="React" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img alt="Node.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img alt="Express.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img alt="Mongoose" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" /> <img alt="Nodemon" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" /> <img alt="npm" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> <img alt="Next.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> <img alt="Tailwind CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /> <img alt="Bootstrap" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> | <img alt="Figma" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> | <img alt="MongoDB" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> |
 | <img alt="PHP" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <img alt="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img alt="HTML" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img alt="CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> | <img alt="Laravel" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" /> <img alt="Next.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /> | <img alt="Figma" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> | <img alt="MySQL" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> |
 | <img alt="Dart" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> | <img alt="Flutter" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> | | <img alt="Firebase" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" /> |
-
+ 
+</details>
 
 #
 
-# 📊 Stats
+### 📊 Stats
 
 <details>
   <summary> See My Github Stats 👇 </summary>
@@ -84,7 +87,7 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
       <!-- Display this image when light mode is active -->
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnuf-Karim-Chowdhury&layout=compact">
       <!-- Fallback image if the browser doesn't support <picture> -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnuf-Karim-Chowdhury&layout=compact" alt="Top Langs" width="650" height="247">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnuf-Karim-Chowdhury&layout=compact" alt="Top Langs" width="400" height="200">
     </picture>
   </a>
 
@@ -95,7 +98,7 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
       <!-- Display this image when light mode is active -->
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ahnuf-Karim-Chowdhury">
       <!-- Fallback image for browsers that do not support <picture> -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Ahnuf-Karim-Chowdhury" alt="Anurag's GitHub stats" width="640" height="227">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ahnuf-Karim-Chowdhury" alt="Anurag's GitHub stats" width="500" height="200">
     </picture>
   </a>
 </div>
@@ -105,7 +108,7 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 
 </br>
 
-# 📈 Contributions  
+### 📈 Contributions  
 
 <details>
   <summary> See My Github Contribution Graph 👇 </summary>
