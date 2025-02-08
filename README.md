@@ -98,7 +98,7 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
       <!-- Display this image when light mode is active -->
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ahnuf-Karim-Chowdhury">
       <!-- Fallback image for browsers that do not support <picture> -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Ahnuf-Karim-Chowdhury" alt="Anurag's GitHub stats" width="500" height="200">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ahnuf-Karim-Chowdhury" alt="Anurag's GitHub stats" width="400" height="200">
     </picture>
   </a>
 </div>
