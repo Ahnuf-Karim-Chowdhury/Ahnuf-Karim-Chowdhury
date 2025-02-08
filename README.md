@@ -64,7 +64,7 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 
 #
 
-### 📊 Stats
+# 📊 Stats
 
 <div align="center">
   <a href="https://github.com/Ahnuf-Karim-Chowdhury/github-readme-stats" style="display: inline-block; margin-right: 10px;">
