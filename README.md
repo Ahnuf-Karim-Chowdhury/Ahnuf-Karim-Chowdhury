@@ -94,23 +94,6 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 
 --- 
 
-## <p style="font-family: 'Roboto', sans-serif; font-size: 24px; color: #0d6efd; font-weight: bold;"> 💡 Feel free to check out my projects below and let’s connect! 🙌</p>
-
-<p align="center">
-  <a href="mailto:ahnufkarimchowdhury@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?&color=B22222&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/ahnuf-karim-chowdhury-396066263/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?color=004182&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Ahnuf-Karim-Chowdhury">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://x.com/Ahnuf_Karim">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?color=black&style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
-</p>
-
 </br>
 
 # 📈 Contribution Graph 
@@ -131,3 +114,22 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
   </picture>
 </p>
 
+
+## <p style="font-family: 'Roboto', sans-serif; font-size: 24px; color: #0d6efd; font-weight: bold;"> 💡 Feel free to check out my projects below and let’s connect! 🙌</p>
+
+</br>
+
+<p align="center">
+  <a href="mailto:ahnufkarimchowdhury@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?&color=B22222&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/ahnuf-karim-chowdhury-396066263/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?color=004182&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Ahnuf-Karim-Chowdhury">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://x.com/Ahnuf_Karim">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?color=black&style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+</p>
