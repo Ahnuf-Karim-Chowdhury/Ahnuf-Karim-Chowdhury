@@ -7,7 +7,7 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 💻 Whether it's creating a **slick user interface**, **managing complex backends**, or **designing mobile apps**, I'm all in!
 
 
-💡** Tech Stack**
+💡**Tech Stack**
 
 - **MERN Stack:** MongoDB, Express.js, React, Node.js – My go-to for building modern, scalable web apps.
 - **Laravel:** Crafting clean and efficient backends with PHP.
