@@ -22,11 +22,17 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 
  <p align="left">
   <a href="https://github.com/Ahnuf-Karim-Chowdhury?tab=repositories">
-    <img alt="total repositories" title="Total repositories on GitHub" src="https://custom-icon-badges.demolab.com/badge/Repositories-black?color=black&style=for-the-badge&labelColor=488207&logo=repo&logoColor=blue"/>
+    <img alt="total repositories" title="Total repositories on GitHub" src="https://custom-icon-badges.demolab.com/badge/Repositories-black?color=black&style=for-the-badge&labelColor=606060&logo=repo&logoColor=blue"/>
 </a>
 
   <a href="https://github.com/Ahnuf-Karim-Chowdhury?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Ahnuf-Karim-Chowdhury?color=black&style=for-the-badge&labelColor=488207&logo=star&logoColor=yellow"/></a>
+  <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Ahnuf-Karim-Chowdhury?style=for-the-badge&labelColor=606060&color=black"/>  <!--`  labelColor=488207  `-->
+</a>
+
+<a href="https://github.com/Ahnuf-Karim-Chowdhury?tab=repositories&sort=stargazers">
+  <img alt="total views" title="Total views on GitHub" src="https://komarev.com/ghpvc/?username=Ahnuf-Karim-Chowdhury&color=000000&style=for-the-badge&labelColor=488207"/>
+</a>
+
 </p>
 
 
