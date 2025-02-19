@@ -99,9 +99,10 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 <!--
 <details>
   <summary> See My Github Stats 👇 </summary>
+  </br> 
      </details>
   -->
-</br> 
+
  <div align="center">
   <a href="https://github.com/Ahnuf-Karim-Chowdhury/github-readme-stats" style="display: inline-block; margin-right: 10px;">
     <picture>
