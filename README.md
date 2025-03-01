@@ -22,11 +22,17 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 
  <p align="left">
   <a href="https://github.com/Ahnuf-Karim-Chowdhury?tab=repositories">
-    <img alt="total repositories" title="Total repositories on GitHub" src="https://custom-icon-badges.demolab.com/badge/Repositories-black?color=black&style=for-the-badge&labelColor=488207&logo=repo&logoColor=blue"/>
+    <img alt="total repositories" title="Total repositories on GitHub" src="https://custom-icon-badges.demolab.com/badge/Repositories-black?color=black&style=for-the-badge&labelColor=606060&logo=repo&logoColor=blue"/>
 </a>
 
   <a href="https://github.com/Ahnuf-Karim-Chowdhury?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Ahnuf-Karim-Chowdhury?color=black&style=for-the-badge&labelColor=488207&logo=star&logoColor=yellow"/></a>
+  <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Ahnuf-Karim-Chowdhury?style=for-the-badge&labelColor=606060&color=black"/>  <!--`  labelColor=488207  `-->
+</a>
+
+<a href="https://github.com/Ahnuf-Karim-Chowdhury?tab=repositories&sort=stargazers">
+  <img alt="total views" title="Total views on GitHub" src="https://komarev.com/ghpvc/?username=Ahnuf-Karim-Chowdhury&color=000000&style=for-the-badge&labelColor=488207"/>
+</a>
+
 </p>
 
 
@@ -37,6 +43,15 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 ---
 ### 🧰 Languages and Tools
 
+
+| **Languages** | **Frameworks, Platforms, and Libraries** | **Design** | **Database Management** |
+| :---: | :---: | :---: | :---: |
+| <img alt="HTML" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img alt="CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img alt="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img alt="TypeScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> | <img alt="React" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img alt="Node.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img alt="Express.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img alt="Mongoose" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" /> <img alt="Nodemon" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" /> <img alt="npm" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> <img alt="Next.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> <img alt="Tailwind CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /> <img alt="Bootstrap" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> |  | <img alt="MongoDB" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> |
+| <img alt="PHP" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <img alt="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img alt="HTML" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img alt="CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> | <img alt="Laravel" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" /> <img alt="Next.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /> | <img alt="Figma" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> | <img alt="MySQL" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> |
+| <img alt="Dart" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> | <img alt="Flutter" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> | | <img alt="Firebase" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" /> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="30" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="30" /> | | |
+
+<!--
 <div class="skills-container">
   <img alt="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="HTML" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -59,14 +74,36 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
   <img alt="NPM" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
   <img alt="GitHub" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   <img alt="Bash" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+  <img alt="VSCode" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+          
 </div>
 <br />
+<details>
+  <summary> See Details 👇 </summary> </br>
+ 
+| **Languages** | **Frameworks, Platforms, and Libraries** | **Design** | **Database Management** |
+| :---: | :---: | :---: | :---: |
+| <img alt="HTML" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> <img alt="CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> <img alt="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> <img alt="TypeScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> | <img alt="React" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img alt="Node.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img alt="Express.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img alt="Mongoose" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" /> <img alt="Nodemon" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodemon/nodemon-original.svg" /> <img alt="npm" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> <img alt="Next.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> <img alt="Tailwind CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /> <img alt="Bootstrap" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> | <img alt="Figma" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> | <img alt="MongoDB" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> |
+| <img alt="PHP" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <img alt="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img alt="HTML" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img alt="CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> | <img alt="Laravel" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" /> <img alt="Next.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" /> | <img alt="Figma" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> | <img alt="MySQL" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /> |
+| <img alt="Dart" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> | <img alt="Flutter" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> | | <img alt="Firebase" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" /> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="30" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="30" /> | | |
+
+         
+</details>
+-->
 
 #
 
-# 📊 Stats
+### 📊 Stats
 
-<div align="center">
+<!--
+<details>
+  <summary> See My Github Stats 👇 </summary>
+  </br> 
+     </details>
+  -->
+
+ <div align="center">
   <a href="https://github.com/Ahnuf-Karim-Chowdhury/github-readme-stats" style="display: inline-block; margin-right: 10px;">
     <picture>
       <!-- Display this image when dark mode is active -->
@@ -74,7 +111,7 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
       <!-- Display this image when light mode is active -->
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnuf-Karim-Chowdhury&layout=compact">
       <!-- Fallback image if the browser doesn't support <picture> -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnuf-Karim-Chowdhury&layout=compact" alt="Top Langs" width="650" height="247">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnuf-Karim-Chowdhury&layout=compact" alt="Top Langs" width="300" height="300">
     </picture>
   </a>
 
@@ -85,20 +122,18 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
       <!-- Display this image when light mode is active -->
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ahnuf-Karim-Chowdhury">
       <!-- Fallback image for browsers that do not support <picture> -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Ahnuf-Karim-Chowdhury" alt="Anurag's GitHub stats" width="640" height="227">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ahnuf-Karim-Chowdhury" alt="Anurag's GitHub stats" width="400" height="300">
     </picture>
   </a>
 </div>
-
-
-
+  
 --- 
 
-</br>
+### 📈 Contributions  
 
-# 📈 Contribution Graph 
-
-
+<details>
+  <summary> See My Github Contribution Graph 👇 </summary>
+</br> 
 <p align="center">
   <picture>
     <!-- Display this image when dark mode is active -->
@@ -113,6 +148,9 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
          width="750" height="380">
   </picture>
 </p>
+</details>
+
+---
 
 
 ## <p style="font-family: 'Roboto', sans-serif; font-size: 24px; color: #0d6efd; font-weight: bold;"> 💡 Feel free to check out my projects below and let’s connect! 🙌</p>
