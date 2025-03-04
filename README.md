@@ -20,7 +20,7 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 
 💡**Tech Stack** <img src="https://techstack-generator.vercel.app/react-icon.svg" width="20" height="17" alt="React Icon"/>
 
-- <img alt="MERN Stack" width="100" src="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/blob/main/Icons/mern.png?raw=true" /> **Stack :** MongoDB, Express.js, React, Node.js – My go-to for building modern, scalable web apps.
+- <img alt="MERN Stack" width="100" src="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/blob/main/Icons/mern2.gif?raw=true" /> **Stack :** MongoDB, Express.js, React, Node.js – My go-to for building modern, scalable web apps.
 - <img alt="Laravel" width="30" height="25" src="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/blob/main/Icons/laravel2.gif?raw=true" /> **Laravel :** Crafting clean and efficient backends with PHP.
 - <img alt="Flutter" width="25" height="20" src="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/blob/main/Icons/flutter6.gif?raw=true" /> **Flutter :** Developing beautiful cross-platform mobile apps for both iOS & Android. 
 - **And More...** <img src="https://techstack-generator.vercel.app/python-icon.svg" width="30" height="30" /> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="30" height="27"/> <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="30" height="27" /> <img src="https://techstack-generator.vercel.app/java-icon.svg" width="30" height="30" /> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="30" height="25" /> I’m always learning and diving into new technologies to build the best solutions for any challenge.
