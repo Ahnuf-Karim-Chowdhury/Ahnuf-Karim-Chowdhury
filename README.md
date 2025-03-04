@@ -200,5 +200,18 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 
 ![Profile Ending](https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/blob/main/Images/cool-robot.gif?raw=true)
 
+<div align="center">
+  <a href="https://github.com/Ahnuf-Karim-Chowdhury/github-readme-stats" style="display: inline-block; margin-right: 10px;">
+    <picture>
+      <!-- Display this image when dark mode is active -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/blob/output/github-snake-dark.svg" style="max-width: 100%;">
+      <!-- Display this image when light mode is active -->
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/blob/output/github-snake.svg" style="max-width: 100%;">
+      <!-- Fallback image if the browser doesn't support <picture> -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnuf-Karim-Chowdhury&layout=compact" alt="Top Langs" style="max-width: 100%;">
+    </picture>
+  </a>
+</div>
+
 
 
