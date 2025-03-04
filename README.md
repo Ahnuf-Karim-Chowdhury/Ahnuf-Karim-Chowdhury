@@ -15,7 +15,7 @@
 
 I'm a passionate **Full Stack Web Developer** who loves to build awesome apps and solutions from the ground up. 
 
-<img alt="SpaceMan" width="30" src="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/blob/main/Icons/laptop.gif?raw=true" /> Whether it's creating a **slick user interface**, **managing complex backends**, or **designing mobile apps**, I'm all in!
+<img alt="SpaceMan" width="30" src="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/blob/main/Icons/laptop2.gif?raw=true" /> Whether it's creating a **slick user interface**, **managing complex backends**, or **designing mobile apps**, I'm all in!
 
 
 💡**Tech Stack** <img src="https://techstack-generator.vercel.app/react-icon.svg" width="20" height="17" alt="React Icon"/>
