@@ -26,12 +26,18 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 - **And More...** <img src="https://techstack-generator.vercel.app/python-icon.svg" width="30" height="30" /> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="30" height="27"/> <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="30" height="27" /> <img src="https://techstack-generator.vercel.app/java-icon.svg" width="30" height="30" /> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="30" height="25" /> I’m always learning and diving into new technologies to build the best solutions for any challenge.
  </br>
  
-🌱I believe in **clean code**, **performance optimization**, and **delivering a seamless experience**.  <img alt="Flutter" width="40" height="40" src="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/blob/main/Icons/globe.gif?raw=true" />
+<p align="center">
+  🌱I believe in <strong>clean code</strong>, <strong>performance optimization</strong>, and <strong>delivering a seamless experience</strong>.
+</p>
+
+
+ <div align="center">
+  <img alt="SpaceMan" width="100" src="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/blob/main/Icons/space.gif?raw=true" />
+</div>
 
 </br>
 
-
- <p align="left">
+ <p align="center">
   <a href="https://github.com/Ahnuf-Karim-Chowdhury?tab=repositories">
     <img alt="total repositories" title="Total repositories on GitHub" src="https://custom-icon-badges.demolab.com/badge/Repositories-black?color=black&style=for-the-badge&labelColor=606060&logo=repo&logoColor=blue"/>
 </a>
