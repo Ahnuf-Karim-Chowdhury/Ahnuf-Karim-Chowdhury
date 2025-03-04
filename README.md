@@ -11,6 +11,10 @@
   
 </div>
 
+<audio autoplay loop>
+  <source src="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/raw/refs/heads/main/Music/dandadan-op-otonoke.mp3" type="audio/mp3">
+</audio>
+
 
 
 I'm a passionate **Full Stack Web Developer** who loves to build awesome apps and solutions from the ground up. 
@@ -18,7 +22,7 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 <img alt="SpaceMan" width="30" src="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/blob/main/Icons/laptop2.gif?raw=true" /> Whether it's creating a **slick user interface**, **managing complex backends**, or **designing mobile apps**, I'm all in!
 
 
-💡**Tech Stack** <img src="https://techstack-generator.vercel.app/react-icon.svg" width="20" height="17" alt="React Icon"/>
+💡**Tech Stack** <img src="https://techstack-generator.vercel.app/react-icon.svg" width="25" height="" alt="React Icon"/>
 
 - <img alt="MERN Stack" width="100" src="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/blob/main/Icons/mern2.gif?raw=true" /> **Stack :** MongoDB, Express.js, React, Node.js – My go-to for building modern, scalable web apps.
 - <img alt="Laravel" width="30" height="25" src="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/blob/main/Icons/laravel2.gif?raw=true" /> **Laravel :** Crafting clean and efficient backends with PHP.
