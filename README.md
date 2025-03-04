@@ -32,7 +32,9 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 
 
  <div align="center">
-  <img alt="SpaceMan" width="100" src="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/blob/main/Icons/space.gif?raw=true" />
+   <!--  <img alt="Candle" width="50" height="90" src="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/blob/main/Icons/candle.gif?raw=true" /> -->
+    <img alt="SpaceMan" width="150" src="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/blob/main/Icons/space.gif?raw=true" />
+    <!-- <img alt="Pizza" width="100" height="85" src="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/blob/main/Icons/pizza.gif?raw=true" /> -->
 </div>
 
 </br>
