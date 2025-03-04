@@ -18,12 +18,12 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 💻 Whether it's creating a **slick user interface**, **managing complex backends**, or **designing mobile apps**, I'm all in!
 
 
-💡**Tech Stack**
+💡**Tech Stack** <img src="https://techstack-generator.vercel.app/react-icon.svg" width="20" height="17" alt="React Icon"/>
 
-- **MERN Stack:** MongoDB, Express.js, React, Node.js – My go-to for building modern, scalable web apps.
-- **Laravel:** Crafting clean and efficient backends with PHP.
-- **Flutter:** Developing beautiful cross-platform mobile apps for both iOS & Android. 📱
-- **And More...** I’m always learning and diving into new technologies to build the best solutions for any challenge.
+- <img alt="HTML" width="100" src="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/blob/main/Icons/mern.png?raw=true" /> **Stack:** MongoDB, Express.js, React, Node.js – My go-to for building modern, scalable web apps.
+- <img alt="HTML" width="25" src="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/blob/main/Icons/laravel2.png?raw=true" /> **Laravel:** Crafting clean and efficient backends with PHP.
+- <img alt="Flutter" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> **Flutter:** Developing beautiful cross-platform mobile apps for both iOS & Android. 📱
+- **And More...** <img src="https://techstack-generator.vercel.app/python-icon.svg" width="30" height="30" /> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="30" height="27"/> <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="30" height="27" /> <img src="https://techstack-generator.vercel.app/java-icon.svg" width="30" height="30" /> <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="30" height="25" /> I’m always learning and diving into new technologies to build the best solutions for any challenge.
  </br>
  
 🌱I believe in **clean code**, **performance optimization**, and **delivering a seamless experience**.
