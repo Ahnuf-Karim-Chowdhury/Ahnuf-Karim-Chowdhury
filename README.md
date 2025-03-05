@@ -130,9 +130,9 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
   <a href="https://github.com/Ahnuf-Karim-Chowdhury/github-readme-stats" style="display: inline-block; margin-right: 10px;">
     <picture>
       <!-- Display this image when dark mode is active -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnuf-Karim-Chowdhury&layout=compact&theme=radical">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnuf-Karim-Chowdhury&layout=compact&langs_count=13&theme=radical">
       <!-- Display this image when light mode is active -->
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnuf-Karim-Chowdhury&layout=compact">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnuf-Karim-Chowdhury&layout=compact&langs_count=13">
       <!-- Fallback image if the browser doesn't support <picture> -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnuf-Karim-Chowdhury&layout=compact" alt="Top Langs" width="300" height="300">
     </picture>
@@ -145,7 +145,7 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
       <!-- Display this image when light mode is active -->
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ahnuf-Karim-Chowdhury">
       <!-- Fallback image for browsers that do not support <picture> -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Ahnuf-Karim-Chowdhury" alt="Anurag's GitHub stats" width="400" height="300">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ahnuf-Karim-Chowdhury" alt="Anurag's GitHub stats" width="640" height="300">
     </picture>
   </a>
 </div>
@@ -155,15 +155,15 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
     <!-- Display this image when dark mode is active -->
     <source media="(prefers-color-scheme: dark)" 
             srcset="https://github-profile-trophy.vercel.app/?username=Ahnuf-Karim-Chowdhury&theme=radical&no-bg=true&margin-w=5&rank=-C,-B,-A" 
-            alt="GitHub Trophy">
+            alt="GitHub Trophy" height="114" >
     <!-- Display this image when light mode is active -->
     <source media="(prefers-color-scheme: light)" 
             srcset="https://github-profile-trophy.vercel.app/?username=Ahnuf-Karim-Chowdhury&no-bg=true&margin-w=5&rank=-C,-B,-A" 
-            alt="GitHub Trophy">
+            alt="GitHub Trophy" height="114" >
     <!-- Fallback image if the browser doesn't support <picture> -->
     <img src="https://github-profile-trophy.vercel.app/?username=Ahnuf-Karim-Chowdhury&no-bg=true&margin-w=5&rank=-C,-B,-A" 
          alt="GitHub Trophy"
-         width="700">
+         height="114" >
   </picture>
 </p>
 
