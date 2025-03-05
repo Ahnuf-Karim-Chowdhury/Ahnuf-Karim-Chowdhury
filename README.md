@@ -175,6 +175,32 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 
 ---
 
+### ⏳ Streaks  
+
+<details>
+  <summary> See My Github Streaks 👇 </summary>
+</br> 
+<p align="center">
+  <picture>
+    <!-- Display this image when dark mode is active -->
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-streak-stats.herokuapp.com?user=Ahnuf-Karim-Chowdhury&theme=radical" 
+            alt="GitHub Streak">
+    <!-- Display this image when light mode is active -->
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-streak-stats.herokuapp.com?user=Ahnuf-Karim-Chowdhury" 
+            alt="GitHub Streak">
+    <!-- Fallback image if the browser doesn't support <picture> -->
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ahnuf-Karim-Chowdhury" 
+         alt="GitHub Streak"
+         width="500">
+  </picture>
+</p>
+
+</details>
+
+---
+
 
 ## <p style="font-family: 'Roboto', sans-serif; font-size: 24px; color: #0d6efd; font-weight: bold;"> 💡 Feel free to check out my projects below and let’s connect! 🙌</p>
 
