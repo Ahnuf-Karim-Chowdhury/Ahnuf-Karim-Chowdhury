@@ -201,13 +201,13 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 </br> 
 <p align="center">
 <picture> 
-    <!-- Display this image when light mode is active -->
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-streak-stats.herokuapp.com?user=Ahnuf-Karim-Chowdhury&theme=default" 
-            alt="GitHub Streak">
-    <!-- Display this image when dark mode is active -->
+    <!-- Dark mode image -->
     <source media="(prefers-color-scheme: dark)" 
             srcset="https://github-readme-streak-stats.herokuapp.com?user=Ahnuf-Karim-Chowdhury&theme=radical" 
+            alt="GitHub Streak">
+    <!-- Light mode image -->
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-streak-stats.herokuapp.com?user=Ahnuf-Karim-Chowdhury&theme=default" 
             alt="GitHub Streak">
     <!-- Fallback image -->
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Ahnuf-Karim-Chowdhury&theme=default" 
