@@ -200,20 +200,20 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
   <summary> See My Github Streaks 👇 </summary>
 </br> 
 <p align="center">
-  <picture>
+<picture> 
+    <!-- Display this image when light mode is active -->
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-readme-streak-stats.herokuapp.com?user=Ahnuf-Karim-Chowdhury&theme=default" 
+            alt="GitHub Streak">
     <!-- Display this image when dark mode is active -->
     <source media="(prefers-color-scheme: dark)" 
             srcset="https://github-readme-streak-stats.herokuapp.com?user=Ahnuf-Karim-Chowdhury&theme=radical" 
             alt="GitHub Streak">
-    <!-- Display this image when light mode is active -->
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-streak-stats.herokuapp.com?user=Ahnuf-Karim-Chowdhury" 
-            alt="GitHub Streak">
-    <!-- Fallback image if the browser doesn't support <picture> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ahnuf-Karim-Chowdhury" 
+    <!-- Fallback image -->
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ahnuf-Karim-Chowdhury&theme=default" 
          alt="GitHub Streak"
          width="500">
-  </picture>
+</picture>
 </p>
 
 </details>
