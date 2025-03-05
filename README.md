@@ -149,6 +149,25 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
     </picture>
   </a>
 </div>
+
+<p align="center">
+  <picture>
+    <!-- Display this image when dark mode is active -->
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-profile-trophy.vercel.app/?username=Ahnuf-Karim-Chowdhury&theme=radical&no-bg=true&margin-w=5&rank=-C,-B,-A" 
+            alt="GitHub Trophy">
+    <!-- Display this image when light mode is active -->
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://github-profile-trophy.vercel.app/?username=Ahnuf-Karim-Chowdhury&no-bg=true&margin-w=5&rank=-C,-B,-A" 
+            alt="GitHub Trophy">
+    <!-- Fallback image if the browser doesn't support <picture> -->
+    <img src="https://github-profile-trophy.vercel.app/?username=Ahnuf-Karim-Chowdhury&no-bg=true&margin-w=5&rank=-C,-B,-A" 
+         alt="GitHub Trophy"
+         width="700">
+  </picture>
+</p>
+
+
   
 --- 
 
@@ -243,5 +262,5 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
   </a>
 </div>
 
-
+p>
 
