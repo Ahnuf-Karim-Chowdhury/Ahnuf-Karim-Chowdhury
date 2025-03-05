@@ -262,5 +262,4 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
   </a>
 </div>
 
-p>
 
