@@ -195,21 +195,22 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 
 <details>
   <summary> See My Github Streaks 👇 </summary>
+
   <p align="center">
-   <picture> 
-    <!-- Dark mode image -->
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-streak-stats.herokuapp.com?user=Ahnuf-Karim-Chowdhury&theme=radical" 
-            alt="GitHub Streak">
-    <!-- Light mode image -->
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://github-readme-streak-stats.herokuapp.com?user=Ahnuf-Karim-Chowdhury&theme=default" 
-            alt="GitHub Streak">
-    <!-- Fallback image -->
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Ahnuf-Karim-Chowdhury&theme=default" 
-         alt="GitHub Streak"
-         width="500">
-      </picture>
+    <picture>
+      <!-- Display this image when dark mode is active -->
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://streak-stats.demolab.com/?user=Ahnuf-Karim-Chowdhury&theme=radical" 
+              alt="GitHub Streak Stats (Dark Mode)">
+      <!-- Display this image when light mode is active -->
+      <source media="(prefers-color-scheme: light)" 
+              srcset="https://streak-stats.demolab.com/?user=Ahnuf-Karim-Chowdhury&theme=default" 
+              alt="GitHub Streak Stats (Light Mode)">
+      <!-- Fallback image if the browser doesn't support <picture> -->
+      <img src="https://streak-stats.demolab.com/?user=Ahnuf-Karim-Chowdhury&theme=default" 
+           alt="GitHub Streak Stats"
+           width="750" height="380">
+    </picture>
   </p>
 </details>
 
