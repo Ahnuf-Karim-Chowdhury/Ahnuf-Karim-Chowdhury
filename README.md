@@ -209,7 +209,7 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
       <!-- Fallback image if the browser doesn't support <picture> -->
       <img src="https://streak-stats.demolab.com/?user=Ahnuf-Karim-Chowdhury&theme=default" 
            alt="GitHub Streak Stats"
-           width="750" height="380">
+           width="550" height="380">
     </picture>
   </p>
 </details>
