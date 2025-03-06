@@ -15,8 +15,6 @@
   <source src="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/raw/refs/heads/main/Music/dandadan-op-otonoke.mp3" type="audio/mp3">
 </audio>
 
-
-
 I'm a passionate **Full Stack Web Developer** who loves to build awesome apps and solutions from the ground up. 
 
 <img alt="SpaceMan" width="30" src="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/blob/main/Icons/laptop2.gif?raw=true" /> Whether it's creating a **slick user interface**, **managing complex backends**, or **designing mobile apps**, I'm all in!
@@ -168,7 +166,6 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 </p>
 
 
-  
 --- 
 
 ### 📈 Contributions  
