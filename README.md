@@ -5,6 +5,8 @@
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00ADEF&center=false&vCenter=true&width=700&lines=🏄‍♂️+Hi+there+,+I'm+Ahnuf!;💻+Full-Stack+Web+Developer+🛠️;MERN+Stack+Developer+%7C+Laravel+Developer;💻+Good+Front-End+Developer;🛠️+Great+Backend+Developer;Your+team’s+future+MVP+😎;The+Best+Team+Player+you+could+ask+for!😉)
 -->
 
+
+
 <div align="center">
  
   # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00ADEF&center=false&vCenter=true&width=700&lines=🏄‍♂️+Hi+there+,+I'm+Ahnuf!;💻+Full-Stack+Web+Developer+🛠️;MERN+Stack+Developer+%7C+Laravel+Developer;💻+Good+Front-End+Developer;🛠️+Great+Backend+Developer;Your+team’s+future+MVP+😎;The+Best+Team+Player+you+could+ask+for!😉)
