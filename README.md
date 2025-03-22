@@ -186,6 +186,32 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 </p>
 
 
+<div align="center" style="padding: 0; margin: 0; margin-top: 0; margin-bottom: 10px;">
+  <a href="https://github.com/Ahnuf-Karim-Chowdhury/github-readme-stats" style="display: inline-block; margin-right: 10px;">
+    <picture>
+      <!-- Display this image when dark mode is active -->
+      <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahnuf-Karim-Chowdhury&theme=radical">
+      <!-- Display this image when light mode is active -->
+      <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahnuf-Karim-Chowdhury&theme=default">
+      <!-- Fallback image if the browser doesn't support <picture> -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnuf-Karim-Chowdhury&layout=compact" alt="Top Langs" width="300" height="300" style="display: block; margin: 0;">
+    </picture>
+  </a>
+  
+  <a href="https://github.com/Ahnuf-Karim-Chowdhury/github-readme-stats" style="display: inline-block; margin-right: 10px;">
+    <picture>
+      <!-- Display this image when dark mode is active -->
+      <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahnuf-Karim-Chowdhury&theme=radical">
+      <!-- Display this image when light mode is active -->
+      <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahnuf-Karim-Chowdhury&theme=default">
+      <!-- Fallback image if the browser doesn't support <picture> -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnuf-Karim-Chowdhury&layout=compact" alt="Top Langs" width="300" height="300" style="display: block; margin: 0;">
+    </picture>
+  </a>
+</div>
+
+
+
 --- 
 
 ### 📈 Contributions  
