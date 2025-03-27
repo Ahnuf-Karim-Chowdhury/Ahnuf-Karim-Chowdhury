@@ -303,4 +303,5 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
   </a>
 </div>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
