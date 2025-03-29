@@ -261,9 +261,10 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 </details>
 
 ---
+### 🛠️ My Tools
 
 <details> 
-  <summary><h3>🛠️ My Tools</h3></summary>
+  <summary>See My Tools 👇</summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
