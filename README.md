@@ -263,7 +263,7 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 ---
 
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h3>🛠️ My Tools</h3></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -410,7 +410,7 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 
 <details>
 <summary>
-  ✨ Tech stack currently using:
+  <h3>✨ Tech stack currently using: </h3>
 </summary>
    <br>
 <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
@@ -433,7 +433,7 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 
 <details>
 <summary>
-  🌱 Looking forward to learn:
+  <h3>🌱 Looking forward to learn:</h3>
 </summary>
    <br>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
