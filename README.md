@@ -22,8 +22,10 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 <img alt="SpaceMan" width="30" src="https://github.com/Ahnuf-Karim-Chowdhury/Ahnuf-Karim-Chowdhury/blob/main/Icons/laptop2.gif?raw=true" /> Whether it's creating a **slick user interface**, **managing complex backends**, or **designing mobile apps**, I'm all in!
 
 Here's my portfolio website: [ahnuf.vercel.app](https://ahnuf.vercel.app)
-
-Here's my resume: [Ahnuf-Karim-Chowdhury](https://drive.google.com/file/d/1wxE1HpgdNw6E-P0C1vUcOVHag883k7lO/view)
+ <!--
+Here's my duble page resume: [Ahnuf-Karim-Chowdhury](https://drive.google.com/file/d/1wxE1HpgdNw6E-P0C1vUcOVHag883k7lO/view)
+-->
+Here's my resume: [Ahnuf-Karim-Chowdhury](https://drive.google.com/file/d/1tYSSi7U_C-oCNeTf_14WxxOTZfSnFFq3/view?usp=sharing)
 
 💡**Tech Stack** <img src="https://techstack-generator.vercel.app/react-icon.svg" width="25" height="" alt="React Icon"/>
 
