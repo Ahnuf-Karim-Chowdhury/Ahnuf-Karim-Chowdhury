@@ -23,6 +23,7 @@ I'm a passionate **Full Stack Web Developer** who loves to build awesome apps an
 
 Here's my portfolio website: [ahnuf.vercel.app](https://ahnuf.vercel.app)
 
+Here's my resume: [Ahnuf-Karim-Chowdhury](https://drive.google.com/file/d/1wxE1HpgdNw6E-P0C1vUcOVHag883k7lO/view)
 
 💡**Tech Stack** <img src="https://techstack-generator.vercel.app/react-icon.svg" width="25" height="" alt="React Icon"/>
 
