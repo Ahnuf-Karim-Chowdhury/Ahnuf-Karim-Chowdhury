@@ -25,7 +25,7 @@ Here's my portfolio website: [ahnuf.vercel.app](https://ahnuf.vercel.app)
  <!--
 Here's my duble page resume: [Ahnuf-Karim-Chowdhury](https://drive.google.com/file/d/1wxE1HpgdNw6E-P0C1vUcOVHag883k7lO/view)
 -->
-Here's my resume: [Ahnuf-Karim-Chowdhury](https://drive.google.com/file/d/1tYSSi7U_C-oCNeTf_14WxxOTZfSnFFq3/view?usp=sharing)
+Here's my resume: [Ahnuf-Karim-Chowdhury](https://drive.google.com/file/d/1XgGoKWR45bIcuoSt5OXC_YZydTu3EeBB/view?usp=sharing)
 
 💡**Tech Stack** <img src="https://techstack-generator.vercel.app/react-icon.svg" width="25" height="" alt="React Icon"/>
 
